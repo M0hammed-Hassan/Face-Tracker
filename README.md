@@ -12,4 +12,4 @@ Here are the general steps you can follow to create a face tracker using TensorF
 <img src='Images/Face Detection Pipeline.png' alt = 'Face Detection Pipeline'>
 
 # The Face Tracker Performance
-<img src = 'Images/Loss.png' alt = 'The Model Performance'>
+<img src = 'Images/loss.png' alt = 'The Model Performance'>
