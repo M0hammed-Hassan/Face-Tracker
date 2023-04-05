@@ -8,3 +8,5 @@ Here are the general steps you can follow to create a face tracker using TensorF
 - Replace the fully connected layers of the VGG16 model with your own custom layers that are designed for face detection.
 - Train the model on the preprocessed face images using a suitable optimizer and loss function.
 - Once the model is trained, use it to detect faces in real-time video streams by applying the model to each frame of the video.
+# The Project Pipeline
+<img src='Images/Face Detection Pipeline.png' alt = 'Face Detection Pipeline'>
