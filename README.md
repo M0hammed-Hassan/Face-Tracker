@@ -10,3 +10,5 @@ Here are the general steps you can follow to create a face tracker using TensorF
 - Once the model is trained, use it to detect faces in real-time video streams by applying the model to each frame of the video.
 # The Project Pipeline
 <img src='Images/Face Detection Pipeline.png' alt = 'Face Detection Pipeline'>
+# The Face Tracker Performance
+<img src = 'Images/Loss.png' alt = 'The Model Performance'>
